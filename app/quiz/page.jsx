@@ -81,8 +81,8 @@ const Page = () => {
             )}
             {/* <p>Total questions: <span>{questions.length}</span></p>
             <p>Total score: <span>{result.score}</span></p> */}
-            <p>Doğru sayısı: <span>{result.correctAnswers}</span></p>
-            <p>Yanlış sayısı: <span>{result.wrongAnswers}</span></p>
+            {/* <p>Doğru sayısı: <span>{result.correctAnswers}</span></p>
+            <p>Yanlış sayısı: <span>{result.wrongAnswers}</span></p> */}
           </div>
         )}
       </div>
