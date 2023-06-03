@@ -10,10 +10,7 @@ export default function Home() {
     <div className="main-container">
     <h1 className="text"> Twitter Yazılımcı testi </h1>
     <p> 
-      lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      lorem ipsum dolor sit amet, consectetur adipiscing elit.
+       Nextjs öğreniyorum
     </p>
 
     <Link href="/quiz">

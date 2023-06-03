@@ -31,5 +31,17 @@ export const quiz = {
         answers: ['Sushi', 'Zurna', 'Pizza', 'Kebap'],
         correctAnswer: 'Zurna',
       },
+      {
+        id: 6,
+        question: 'Macbook kullanıyor musunuz ? ',
+        answers: ['Evet', 'Hayır', 'Alacağım', 'Bilmiyorum'],
+        correctAnswer: 'Evet',
+      },
+      {
+        id: 7,
+        question: 'Tweet yüzünden hiç linç yediniz mi ? ',
+        answers: ['Evet', 'Hayır', 'Isterim', 'Tweet atmıyorum'],
+        correctAnswer: 'Evet',
+      },
     ],
   };
