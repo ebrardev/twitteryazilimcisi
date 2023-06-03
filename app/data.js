@@ -4,8 +4,8 @@ export const quiz = {
       {
         id: 1,
         question: "Twitter'da kaç takipçin var ?",
-        answers: ['0-250', '250-500', '1k-3k', '5k-'],
-        correctAnswer: '5k-',
+        answers: ['0-250', '250-500', '1k-3k', '5k+'],
+        correctAnswer: '5k+',
       },
       {
         id: 2,

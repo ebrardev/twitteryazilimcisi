@@ -24,7 +24,7 @@ button {
   border-radius: 8px;
   cursor: pointer;
   background-color: #e5e5e5;
-  color: rgb(38, 7, 133);
+  color: rgb(7, 7, 7);
 }
 
 .btn-disabled {
@@ -62,7 +62,7 @@ li {
 .quiz-container{
   background-color: aliceblue;
   padding: 1rem;
-  margin-top: 2rem;
+  margin-top: 1rem;
   border-radius: 8px;
 
 }
@@ -83,24 +83,23 @@ h2 {
 
 }
 .main-container {
-  background-color: white;
-
-  padding: 7rem;
-  margin-top: 5rem;
+  background-color: aliceblue;
+  padding: 1rem;
+  margin-top: 2rem;
   border-radius: 8px;
 }
 .main-btn {
-  padding: 5px 3px;
-  width: 50%;
-  margin-top: 12px;
+  padding: 4px;
+
+  margin-top: 4px;
   font-size: 1.4rem;
   border-radius: 8px;
   cursor: pointer;
-  background-color: #0e21cb;
+  background-color: #080808;
   color: rgb(214, 213, 219);
   align-items: center;
   justify-content :flex-end;
 }
 .text{
-  color: rgb(60, 9, 171);
+  color: rgb(0, 0, 0);
 }
