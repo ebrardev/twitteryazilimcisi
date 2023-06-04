@@ -1,5 +1,6 @@
 import Link from "next/link"
 import Navbar from "./components/Navbar/Navbar"
+import { Analytics } from '@vercel/analytics/react';
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
     </Link>
     </div>
     </div>
+    <Analytics />
     </main>
   )
 }
